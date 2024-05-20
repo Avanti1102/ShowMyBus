@@ -6,7 +6,7 @@ Welcome to **Show My Bus**! This platform provides real-time bus tracking to hel
 
 ## 📜 Overview
 
-**Show_My_Bus** is a comprehensive bus tracking website designed to make commuting more convenient. Users can track buses in real-time, access driver information, and save their favorite routes for quick access. The platform aims to reduce waiting times and improve the overall travel experience for commuters.
+**ShowMyBus** is a comprehensive bus tracking website designed to make commuting more convenient. Users can track buses in real-time, access driver information, and save their favorite routes for quick access. The platform aims to reduce waiting times and improve the overall travel experience for commuters.
 
 ### Key Features
 
@@ -66,8 +66,8 @@ Contributions are welcome! Here's how you can contribute:
 
 ## 📞 Contact
 
-Project Link: [Show_My_Bus](https://github.com/Soham0902/Show_My_Bus)
+Project Link: [ShowMyBus](https://github.com/Avanti1102/ShowMyBus)
 
 ---
 
-Thank you for using Show_My_Bus! 🚌 Enjoy tracking and catching your buses on time.
+Thank you for using ShowMyBus! 🚌 Enjoy tracking and catching your buses on time.
